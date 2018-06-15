@@ -1,6 +1,8 @@
 # uzdarbislt-knygu-klubas
 
-Įdomių knygų sąrašas iš uždarbis.lt forumo. Kviečiu prisijungti ir papildyti!
+Įdomių knygų sąrašas iš uždarbis.lt forumo: [Geriausia knyga, kurią esu skaitęs](https://uzdarbis.lt/t152754/geriausia-knyga-kuria-esu-skaites/)
+
+Kviečiu prisijungti ir papildyti! Peržiūrėkit pildymo [taisykles](./TAISYKLES.md)
 
 STATUSAS: surinktos knygos iš pirmo temos puslapio.
 
